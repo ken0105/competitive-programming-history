@@ -1,0 +1,12 @@
+{
+	"id": 22267429,
+	"epoch_second": 1619970349,
+	"problem_id": "jsc2021_d",
+	"contest_id": "jsc2021",
+	"user_id": "kiwata",
+	"language": "Kotlin (1.3.71)",
+	"point": 400,
+	"length": 1120,
+	"result": "AC",
+	"execution_time": 113
+}
